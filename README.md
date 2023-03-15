@@ -12,4 +12,8 @@ Esta é uma aplicação simples utilizada em aula para fixação de conceitos de
 - Startar o projeto com php artisan serve 
 
 
+# Sobre o banco de dados 
+
+- O Banco de dados é SQLITE e ja está incluso no mini projeto, não precisa fazer nada. 
+
 email: gabriel.dev93@gmail.com
